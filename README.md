@@ -1,11 +1,11 @@
-# 📰 Blog Web App (PHP + CSS)
+# Blog Web App (PHP + CSS)
 
 A simple blog management system built with **PHP** and **CSS**.  
 It allows users to **add**, **edit**, **delete**, **search** blog posts, and manage **login/logout**.
 
 ---
 
-## ⚙️ Setup (Using WAMP)
+## Setup (Using WAMP)
 
 1. **Install WAMP** → [https://www.wampserver.com/](https://www.wampserver.com/)  
 2. Move the project folder to:  
@@ -15,7 +15,7 @@ It allows users to **add**, **edit**, **delete**, **search** blog posts, and man
 
 ---
 
-## 📁 Files Overview
+## Files Overview
 
 | File | Description |
 |------|--------------|
@@ -28,9 +28,9 @@ It allows users to **add**, **edit**, **delete**, **search** blog posts, and man
 
 ---
 
-## 👨‍💻 Author
+## Author
 **[@ckphase](https://github.com/ckphase)**
 
 ---
 
-🧩 *Built for learning PHP web development and backend integration.*
+ *Built for learning PHP web development and backend integration.*
