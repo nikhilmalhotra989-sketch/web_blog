@@ -9,10 +9,10 @@ It allows users to **add**, **edit**, **delete**, **search** blog posts, and man
 
 1. **Install WAMP** → [https://www.wampserver.com/](https://www.wampserver.com/)  
 2. Move the project folder to:  
-  C:\wamp64\www\
+    C:\wamp64\www\
 3. **Start WAMP Server** and ensure Apache and MySQL services are running.  
 4. Open in your browser:
-
+    http://localhost/blog_web_devansh/
 ---
 
 ## Files Overview
