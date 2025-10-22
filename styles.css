@@ -162,3 +162,24 @@ input, textarea {
 .input-space {
     margin-bottom: 15px;
 }
+
+
+.blog-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.blog-images img {
+    width: 220px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    transition: transform 0.2s;
+}
+
+.blog-images img:hover {
+    transform: scale(1.05);
+}
