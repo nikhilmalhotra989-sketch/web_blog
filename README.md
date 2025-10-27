@@ -28,9 +28,4 @@ It allows users to **add**, **edit**, **delete**, **search** blog posts, and man
 
 ---
 
-## Author
-**[@ckphase](https://github.com/ckphase)**
-
----
-
  *Built for learning PHP web development and backend integration.*
